@@ -1,1 +1,2 @@
 This is line one, created by user A
+This is the second line, created by user B
